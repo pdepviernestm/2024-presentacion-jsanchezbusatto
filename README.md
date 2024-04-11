@@ -1,10 +1,9 @@
-# presentacion-
+# Hola
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Realicen algun cambio.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
+## Soy Juan Cruz
 
-Ya saben usar git!
+> ¿qué me gusta hacer en mi tiempo libre?
+- En mis tiempos libre me gusta hacer deportes, como salir a correr, ir al gym, nadar, etc. Tambien juntarme con amigos.
+
+> ¿última película que me gustó mucho?
+- Una de las ultimas pelis que vi fue Interestelar, que es muy vieja pero la verdad que esta muy buena, recomiendo por si no la vieron.
